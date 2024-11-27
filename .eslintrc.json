@@ -27,6 +27,7 @@
     "no-unused-expressions": ["error"],
     "no-useless-call": ["error"],
     "no-with": ["error"],
+    "no-console":"off",
     "no-unused-vars": ["error", {"args": "none"}],
     "object-curly-spacing": ["error", "never"],
     "radix": ["error", "always"],
