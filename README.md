@@ -1,5 +1,7 @@
 # Mammoth .docx to HTML converter
 
+This project is modified from [Mammoth](https://github.com/mwilliamson/mammoth.js.git)，will make some radical updates。
+
 Mammoth is designed to convert .docx documents,
 such as those created by Microsoft Word, Google Docs and LibreOffice,
 and convert them to HTML.
